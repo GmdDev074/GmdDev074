@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm MUHAMMAD SALMAN</h1>
-<h3 align="center">A passionate Android Developer from Pakistan</h3>
+<h3 align="center">A passionate Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmddev074&label=Profile%20views&color=0e75b6&style=flat" alt="gmddev074" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gmddev074" alt="gmddev074" /></a> </p>
 
-- 🌱 I’m currently learning **Java frameworks, Kotlin, API development, Postman**
+- 🌱 I’m currently learning **Dagger, JetPack, KMP, RND**
+- ✅ What I have done **Java frameworks, API development, Postman, Android SDK & NDK, Kotlin, Ad Mob**
 
 - 👯 I’m looking to collaborate on **android projects**
 
