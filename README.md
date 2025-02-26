@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **Dagger, JetPack, KMP, RND**
+- 🌱 I’m currently learning **Dagger, JetPack, KMP, Flutter, Dart**
 - ✅ What I have done: **Java frameworks, API development, Postman, Android SDK & NDK, Kotlin, Ad Mob**
 - 👯 I’m looking to collaborate on **Android projects**
 - 👨‍💻 All of my projects are available on **[MUHAMMAD SALMAN's GitHub](https://github.com/gmddev074)**
