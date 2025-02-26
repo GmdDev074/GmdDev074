@@ -29,9 +29,13 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gmddev074&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-</p>
+### 🔥 Top Languages Used:
+| Rank | Language | Percentage |
+|------|----------|------------|
+| 🥇  | Java | 60% |
+| 🥈  | Kotlin | 30% |
+| 🥉  | XML | 10% |
+
 
 ---
 
