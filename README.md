@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Dagger, JetPack, KMP, RND**
 - ✅ What I have done: **Java frameworks, API development, Postman, Android SDK & NDK, Kotlin, Ad Mob**
 - 👯 I’m looking to collaborate on **Android projects**
-- 👨‍💻 All of my projects are available on **[My GitHub](https://github.com/gmddev074)**
+- 👨‍💻 All of my projects are available on **[MUHAMMAD SALMAN's GitHub](https://github.com/gmddev074)**
 - 💬 Ask me about **Java, Kotlin, API Development, Databases, Postman**
 - 📫 How to reach me: **gmddev074@gmail.com**
 
