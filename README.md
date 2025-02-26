@@ -29,12 +29,35 @@
 
 
 
+<div align="center">
+
 ### 🔥 Top Languages Used:
-| Rank | Language | Percentage |
-|------|----------|------------|
-| 🥇  | Java | 60% |
-| 🥈  | Kotlin | 30% |
-| 🥉  | XML | 10% |
+
+<table>
+  <tr>
+    <th>Rank</th>
+    <th>Language</th>
+    <th>Percentage</th>
+  </tr>
+  <tr>
+    <td>🥇</td>
+    <td>Java</td>
+    <td>70%</td>
+  </tr>
+  <tr>
+    <td>🥈</td>
+    <td>Kotlin</td>
+    <td>20%</td>
+  </tr>
+  <tr>
+    <td>🥉</td>
+    <td>Dart</td>
+    <td>10%</td>
+  </tr>
+</table>
+
+</div>
+
 
 
 ---
