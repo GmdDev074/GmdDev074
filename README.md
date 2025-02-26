@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Android Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7D15A&size=22&center=true&vCenter=true&lines=Android+Developer;Java+%7C+Kotlin;API+Development;Open+to+Collaboration" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7D15A&size=22&center=true&vCenter=true&lines=Android+Developer;Java+%7C+Kotlin;Open+to+Collaboration" />
 </p>
 
 <p align="center"> 
