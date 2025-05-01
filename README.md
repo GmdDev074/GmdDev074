@@ -28,36 +28,6 @@
 </p>
 
 
-
-<div align="center">
-
-### 🔥 Top Languages Used:
-
-<table>
-  <tr>
-    <th>Rank</th>
-    <th>Language</th>
-    <th>Percentage</th>
-  </tr>
-  <tr>
-    <td>🥇</td>
-    <td>Java</td>
-    <td>70%</td>
-  </tr>
-  <tr>
-    <td>🥈</td>
-    <td>Kotlin</td>
-    <td>20%</td>
-  </tr>
-  <tr>
-    <td>🥉</td>
-    <td>Dart</td>
-    <td>10%</td>
-  </tr>
-</table>
-
-</div>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gmddev074&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </p>  
