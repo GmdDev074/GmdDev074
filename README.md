@@ -9,6 +9,12 @@
   <img src="https://komarev.com/ghpvc/?username=gmddev074&label=Profile%20views&color=0e75b6&style=flat" alt="gmddev074" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/gmddev074?style=social" alt="Profile Stars" />
+  <img src="https://img.shields.io/github/followers/gmddev074?style=social" alt="Followers" />
+  <img src="https://img.shields.io/badge/Public%20Repos-30-blue" alt="Public Repos" />
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -31,6 +37,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gmddev074&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </p>  
+
+---
+
+### ⚡ Skills Breakdown
+- **Android (90%)** ██████████░░  
+- **Kotlin (85%)** █████████░░░  
+- **Java (80%)** ████████░░░░  
+- **Flutter/Dart (70%)** ██████░░░░░  
 
 ---
 
@@ -113,6 +127,38 @@
 </table>
 
 
+
+---
+
+### 🚀 Featured Projects
+
+- 📱 [Video Streaming App](https://github.com/gmddev074/video-streaming-app) – Netflix-style Android app with ExoPlayer  
+- 🔐 [Bail Bonds App](https://github.com/gmddev074/mob-town) – Legal assistance app with forms & check-ins  
+- 🏆 [Awesome UI Libraries](https://github.com/gmddev074/awesome_ui_libraries) – Curated UI components for developers  
+
+---
+
+### 🏅 Certifications
+- Google Associate Android Developer  
+- Kotlin for Android by JetBrains  
+- Firebase Advanced Features  
+
+---
+
+### 🌍 Visitor Map
+
+![Visitor Map](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gmddev074&theme=radical)
+
+
+---
+
+### 💡 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🤣 Dev Joke of the Day
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 ---
 
