@@ -48,14 +48,6 @@
 
 ---
 
-### ⚡ Skills Breakdown
-- **Android (90%)** ██████████░░  
-- **Kotlin (85%)** █████████░░░  
-- **Java (80%)** ████████░░░░  
-- **Flutter/Dart (70%)** ██████░░░░░  
-
----
-
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -144,6 +136,33 @@
 - 🔐 [Bail Bonds App](https://github.com/gmddev074/mob-town) – Legal assistance app with forms & check-ins  
 - 🏆 [Awesome UI Libraries](https://github.com/gmddev074/awesome_ui_libraries) – Curated UI components for developers  
 
+---
+
+### 🧰 My Libraries
+- 📦 [Custom RecyclerView Adapters](https://github.com/gmddev074/rv-adapter-lib)  
+- 🎨 [Android UI Kit](https://github.com/gmddev074/android-ui-kit)  
+
+---
+
+### 🏗️ Currently Building  
+
+- 📱 **Mob Town** – Bail Assistance & Legal Support App  
+  Helping people connect quickly for bail assistance, check-ins, and legal support.  
+  - 🚨 Contact Us form for urgent bail requests  
+  - ✅ Check-In form for client updates  
+  - 🌐 Quick website access for resources  
+  - ⚡ Built for speed, clarity, and urgent response  
+
+- 🎥 **Shorts Streaming App**  
+  A video platform for short-form entertainment, with instant playback, likes, favorites, and ad-based episode unlocking.  
+
+- 🏥 **Health Record Submission App**  
+  Enabling users to securely **submit & track health records** while allowing organizations to monitor case progress and compliance.  
+  - 📊 Track personal health updates over time  
+  - 🔒 Secure record submission  
+  - 🏢 Organization-side case tracking & status monitoring  
+
+  
 ---
 
 ### 🏅 Certifications
