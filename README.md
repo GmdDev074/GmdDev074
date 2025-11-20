@@ -1,54 +1,50 @@
-<h1 align="center">Hi 👋, I'm MUHAMMAD SALMAN</h1>
-<h3 align="center">A Passionate Android Developer</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#F7D15A;">MUHAMMAD SALMAN</span></h1>
+<h3 align="center">🚀 Passionate Android Developer | Kotlin • Java • Flutter</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7D15A&size=22&center=true&vCenter=true&lines=Android+Developer;Java+%7C+Kotlin+%7C+XML+%7C+Flutter+%7C+Android+SDK;Open+to+Collaborate" />
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=gmddev074&label=Profile%20views&color=0e75b6&style=flat" alt="gmddev074" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7D15A&size=24&center=true&vCenter=true&width=500&lines=Android+Developer;Kotlin+%7C+Java+%7C+Flutter+%7C+Jetpack;Clean+Code+Enthusiast;Open+to+Collaboration+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/gmddev074?style=social" alt="Profile Stars" />
-  <img src="https://img.shields.io/github/followers/gmddev074?style=social" alt="Followers" />
-  <img src="https://img.shields.io/badge/Public%20Repos-30-blue" alt="Public Repos" />
+  <img src="https://komarev.com/ghpvc/?username=gmddev074&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/gmddev074?style=flat&color=brightgreen" />
+  <img src="https://img.shields.io/github/stars/gmddev074?style=flat&color=yellow" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Dagger, JetPack, KMP, Flutter, Dart**
-- ✅ What I have done: **Java frameworks, API development, Postman, Android SDK & NDK, Kotlin, Ad Mob**
-- 👯 I’m looking to collaborate on **Android projects**
-- 👨‍💻 All of my projects are available on **[MUHAMMAD SALMAN's GitHub](https://github.com/gmddev074)**
-- 💬 Ask me about **Java, Kotlin, API Development, Databases, Postman**
-- 📫 How to reach me: **gmddev074@gmail.com**
-
----
-
-### 📊 GitHub Stats
-<p align="center"> 
-  <img src="https://github-contribution-stats.vercel.app/api?username=gmddev074&layout=compact&theme=radical" alt="GitHub Globe" /> 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gmddev074&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-</p>  
+- 🌱 Currently learning: **Dagger, Jetpack, KMP, Flutter, Dart**  
+- 🛠 Skilled in: **Java & Kotlin frameworks, API Development, NDK, AdMob, Databases**  
+- 🤝 Looking to collaborate on **Android apps, SDKs, or UI libraries**  
+- 📂 Explore all my projects here: **[GitHub Profile →](https://github.com/gmddev074)**  
+- 💬 Ask me about: **Java, Kotlin, APIs, Databases, Architecture, Postman**  
+- 📧 Reach me at: **gmddev074@gmail.com**
 
 ---
 
-### 🗺️ GitHub Profile Summary
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gmddev074&theme=radical" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gmddev074&theme=radical" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gmddev074&theme=radical" alt="Most Commit Language"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gmddev074&show_icons=true&theme=radical&hide_border=false&border_radius=12" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmddev074&layout=compact&theme=radical&border_radius=12" height="170"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🗺️ Profile Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gmddev074&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gmddev074&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gmddev074&theme=radical"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=gmddev074&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy" />
@@ -57,142 +53,118 @@
 
 ---
 
-### 🔥 Contribution Graph
+## 🔥 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmddev074&theme=tokyo-night&bg_color=000000&color=FFFFFF&line=FFA500&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmddev074&theme=tokyo-night&bg_color=000000&color=FFFFFF&line=FFA500&point=FFFFFF" />
 </p>
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/><br><b>Android</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/><br><b>Java</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/><br><b>Kotlin</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="50"/><br><b>Dart</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/><br><b>Flutter</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/><br><b>Firebase</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50"/><br><b>SQLite</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/><br><b>Postman</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/><br><b>Git</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gmddev074" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/><br><b>GitHub</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/><br><b>Figma</b>
-      </a>
-    </td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50"><br><b>Android</b></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"><br><b>Java</b></td>
+    <td><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="50"><br><b>Kotlin</b></td>
+    <td><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50"><br><b>Dart</b></td>
+    <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50"><br><b>Flutter</b></td>
+    <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"><br><b>Firebase</b></td>
+    <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50"><br><b>SQLite</b></td>
+    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"><br><b>Postman</b></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"><br><b>Git</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"><br><b>GitHub</b></td>
+    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"><br><b>Figma</b></td>
   </tr>
 </table>
 
+---
 
+## 🚀 Highlighted Projects
+
+### 📱 **Video Streaming App**
+Netflix-style Android app with **ExoPlayer**, categories & episodes  
+🔗 https://github.com/gmddev074/video-streaming-app
+
+### 🔐 **Bail Bonds App – Mob Town**
+- Urgent Bail Request Form  
+- Check-In Module  
+- Website Integration  
+🔗 https://github.com/gmddev074/mob-town
+
+### 🏆 **Awesome UI Libraries**
+Reusable and modern UI components  
+🔗 https://github.com/gmddev074/awesome_ui_libraries
 
 ---
 
-### 🚀 Featured Projects
+## 🧰 My Libraries
 
-- 📱 [Video Streaming App](https://github.com/gmddev074/video-streaming-app) – Netflix-style Android app with ExoPlayer  
-- 🔐 [Bail Bonds App](https://github.com/gmddev074/mob-town) – Legal assistance app with forms & check-ins  
-- 🏆 [Awesome UI Libraries](https://github.com/gmddev074/awesome_ui_libraries) – Curated UI components for developers  
+- 📦 **Custom RecyclerView Adapters**  
+  https://github.com/gmddev074/rv-adapter-lib
 
----
-
-### 🧰 My Libraries
-- 📦 [Custom RecyclerView Adapters](https://github.com/gmddev074/rv-adapter-lib)  
-- 🎨 [Android UI Kit](https://github.com/gmddev074/android-ui-kit)  
+- 🎨 **Android UI Kit**  
+  https://github.com/gmddev074/android-ui-kit
 
 ---
 
-### 🏗️ Currently Building  
+## 🏗️ Currently Working On
 
-- 📱 **Mob Town** – Bail Assistance & Legal Support App  
-  Helping people connect quickly for bail assistance, check-ins, and legal support.  
-  - 🚨 Contact Us form for urgent bail requests  
-  - ✅ Check-In form for client updates  
-  - 🌐 Quick website access for resources  
-  - ⚡ Built for speed, clarity, and urgent response  
+### 📱 **Mob Town – Bail Assistance App**
+- 🚨 Urgent Contact  
+- 📄 Check-in Forms  
+- 🌐 Website Integration  
+- ⚡ Super fast and reliable
 
-- 🎥 **Shorts Streaming App**  
-  A video platform for short-form entertainment, with instant playback, likes, favorites, and ad-based episode unlocking.  
+### 🎥 **Shorts Streaming App**
+Lightweight & fast video platform  
+- Likes  
+- Favorites  
+- Reward ads to unlock episodes  
 
-- 🏥 **Health Record Submission App**  
-  Enabling users to securely **submit & track health records** while allowing organizations to monitor case progress and compliance.  
-  - 📊 Track personal health updates over time  
-  - 🔒 Secure record submission  
-  - 🏢 Organization-side case tracking & status monitoring  
-
-  
----
-
-### 🏅 Certifications
-- Google Associate Android Developer  
-- Kotlin for Android by JetBrains  
-- Firebase Advanced Features  
+### 🏥 **Health Record Submission App**
+- Secure record submission  
+- Health progress timeline  
+- Organization-side tracking  
 
 ---
 
-### 💡 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🏅 Certifications
+- ✔ Google Associate Android Developer  
+- ✔ JetBrains Kotlin for Android  
+- ✔ Firebase Advanced Features  
 
 ---
 
-### 🤣 Dev Joke of the Day
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+## 💡 Quote of the Day
 
----
-
-### 📫 Connect With Me
-<p align="left">
-  <a href="mailto:gmddev074@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/gmddev074">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 ---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/GmdDev074"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="GmdDev074" /></a><a href="https://ko-fi.com/GmdDev074"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="GmdDev074" /></a></p><br><br>
+## 🤣 Dev Joke of the Day
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:gmddev074@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/gmddev074"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## ☕ Support My Work
+
+<p>
+  <a href="https://www.buymeacoffee.com/GmdDev074"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210"/></a>
+  <a href="https://ko-fi.com/GmdDev074"><img src="https://cdn.ko-fi.com/cdn/kofi3.png" width="210"/></a>
+</p>
