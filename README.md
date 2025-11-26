@@ -156,26 +156,25 @@ Lightweight & fast video platform
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:gmddev074@gmail.com">
+  <a href="mailto:gmddev074@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/gmddev074">
+  <a href="https://github.com/gmddev074" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://wa.me/+923082456659">
+  <a href="https://wa.me/+923082456659" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://t.me/your-username">
+  <a href="https://t.me/your-username" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://imo.im/imoid_jPuBSEWJmp">
+  <a href="https://imo.im/imoid_jPuBSEWJmp" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/IMO-00AFF0?style=for-the-badge&logo=imo&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-salman-5672a0203">
+  <a href="https://www.linkedin.com/in/muhammad-salman-5672a0203" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
 
 ---
 
