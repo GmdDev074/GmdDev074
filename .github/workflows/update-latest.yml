@@ -1,0 +1,39 @@
+name: Update Latest Active Repo
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # every 30 minutes
+  workflow_dispatch:          # manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch latest repo info
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GH_PAT }}
+          script: |
+            const fs = require("fs");
+            const repos = await github.paginate(
+              github.repos.listForAuthenticatedUser,
+              { per_page: 100 }
+            );
+
+            const sorted = repos
+              .filter(r => !r.archived)
+              .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at));
+
+            const latestRepo = sorted[0];
+
+            const block = `- **[${latestRepo.name}](${latestRepo.html_url})**  \n  Last update: ${new Date(latestRepo.pushed_at).toLocaleString()}`;
+
+            let readme = fs.readFileSync("README.md", "utf8");
+            readme = readme.replace(/<!--latest-start-->([\s\S]*?)<!--latest-end-->/, `<!--latest-start-->\n${block}\n<!--latest-end-->`);
+            fs.writeFileSync("README.md", readme);
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update latest active repo"
