@@ -180,7 +180,19 @@ Lightweight & fast video platform
 
 ## ☕ Support My Work
 
+<!--
 <p>
   <a href="https://www.buymeacoffee.com/GmdDev074"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210"/></a>
   <a href="https://ko-fi.com/GmdDev074"><img src="https://cdn.ko-fi.com/cdn/kofi3.png" width="210"/></a>
 </p>
+-->
+
+If you like any of my projects, hit ⭐ to show your support!  
+If you find any issues, feel free to **open an issue**, and let's **connect with each other**.  
+
+You can also contribute by **suggesting features**, **reporting bugs**, or even **submitting pull requests**.  
+Your feedback helps me improve these projects and build more useful tools for everyone.  
+
+Don't forget to **share your thoughts** or ideas—collaboration makes the community stronger!  
+Every star, issue, or suggestion motivates me to keep creating and innovating.  
+
