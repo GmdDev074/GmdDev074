@@ -165,7 +165,7 @@ Lightweight & fast video platform
   <a href="https://wa.me/+923082456659" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://t.me/your-username" target="_blank" rel="noopener noreferrer">
+  <a href="https://t.me/@Itxz_Sallu" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
    <a href="https://profile.imo.im/profileshare/shr.AAAAAAAAAAAAAAAAAAAAAK1Xu5Axl0LvwrC2PtO0_QnSvxQIUrGVloBFJJOmL-qD" target="_blank" rel="noopener noreferrer">
