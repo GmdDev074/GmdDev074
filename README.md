@@ -168,7 +168,7 @@ Lightweight & fast video platform
   <a href="https://t.me/your-username" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://imo.im/imoid_jPuBSEWJmp" target="_blank" rel="noopener noreferrer">
+   <a href="https://profile.imo.im/profileshare/shr.AAAAAAAAAAAAAAAAAAAAAK1Xu5Axl0LvwrC2PtO0_QnSvxQIUrGVloBFJJOmL-qD" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/IMO-00AFF0?style=for-the-badge&logo=imo&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammad-salman-5672a0203" target="_blank" rel="noopener noreferrer">
