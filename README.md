@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/stars/gmddev074?style=flat&color=yellow" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
 
@@ -22,7 +22,7 @@
 - 💬 Ask me about: **Java, Kotlin, APIs, Databases, Architecture, Postman**  
 - 📧 Reach me at: **gmddev074@gmail.com**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔥 Currently Working On
 
@@ -30,16 +30,24 @@
 Loading...
 <!--latest-end-->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmddev074&show_icons=true&theme=radical&hide_border=false&border_radius=12" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmddev074&layout=compact&theme=radical&border_radius=12" height="170"/>
-</p>
+<div align="center">
 
----
+![](https://github-readme-stats.vercel.app/api?username=gmddev074&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gmddev074&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gmddev074&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=gmddev074&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🗺️ Profile Overview
 
@@ -49,7 +57,12 @@ Loading...
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gmddev074&theme=radical"/>
 </p>
 
----
+<div align="center">
+<a href="https://github.com/gmddev074">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gmddev074&theme=2077" height="180em" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
 
@@ -59,7 +72,7 @@ Loading...
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔥 Contribution Graph
 
@@ -67,7 +80,7 @@ Loading...
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmddev074&theme=tokyo-night&bg_color=000000&color=FFFFFF&line=FFA500&point=FFFFFF" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💻 Tech Stack
 
@@ -87,7 +100,7 @@ Loading...
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Highlighted Projects
 
@@ -105,7 +118,7 @@ Netflix-style Android app with **ExoPlayer**, categories & episodes
 Reusable and modern UI components  
 🔗 https://github.com/gmddev074/awesome_ui_libraries
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧰 My Libraries
 
@@ -115,7 +128,7 @@ Reusable and modern UI components
 - 🎨 **Android UI Kit**  
   https://github.com/gmddev074/android-ui-kit
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏗️ Currently Working On
 
@@ -136,14 +149,14 @@ Lightweight & fast video platform
 - Health progress timeline  
 - Organization-side tracking  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏅 Certifications
 - ✔ Google Associate Android Developer  
 - ✔ JetBrains Kotlin for Android  
 - ✔ Firebase Advanced Features  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💡 Quote of the Day
 
@@ -151,7 +164,7 @@ Lightweight & fast video platform
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤣 Dev Joke of the Day
 
@@ -159,7 +172,7 @@ Lightweight & fast video platform
   <img src="https://readme-jokes.vercel.app/api?theme=radical"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Connect With Me
 
@@ -184,7 +197,7 @@ Lightweight & fast video platform
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ☕ Support My Work
 
