@@ -177,7 +177,7 @@ Lightweight & fast video platform
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:gmddev074@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:salmanhy123456@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/gmddev074" target="_blank" rel="noopener noreferrer">
