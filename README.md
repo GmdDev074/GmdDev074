@@ -189,13 +189,17 @@ Lightweight & fast video platform
   <a href="https://t.me/@Itxz_Sallu" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-   <a href="https://profile.imo.im/profileshare/shr.AAAAAAAAAAAAAAAAAAAAAK1Xu5Axl0LvwrC2PtO0_QnSvxQIUrGVloBFJJOmL-qD" target="_blank" rel="noopener noreferrer">
+  <a href="https://profile.imo.im/profileshare/shr.AAAAAAAAAAAAAAAAAAAAAK1Xu5Axl0LvwrC2PtO0_QnSvxQIUrGVloBFJJOmL-qD" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/IMO-00AFF0?style=for-the-badge&logo=imo&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammad-salman-5672a0203" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://salmandev-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
