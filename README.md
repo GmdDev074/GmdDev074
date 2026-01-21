@@ -20,7 +20,7 @@
 - 🤝 Looking to collaborate on **Android apps, SDKs, or UI libraries**  
 - 📂 Explore all my projects here: **[GitHub Profile →](https://github.com/gmddev074)**  
 - 💬 Ask me about: **Java, Kotlin, APIs, Databases, Architecture, Postman**  
-- 📧 Reach me at: **gmddev074@gmail.com**
+- 📧 Reach me at: **salmanhy123456@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
