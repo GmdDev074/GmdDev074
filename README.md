@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning: **Dagger, Jetpack, KMP, Flutter, Dart**  
-- 🛠 Skilled in: **Java & Kotlin frameworks, API Development, NDK, AdMob, Databases**  
+- 🛠 Skilled in: **Java & Kotlin frameworks, Jetpack Compose, API Integration, NDK, AdMob, Databases**  
 - 🤝 Looking to collaborate on **Android apps, SDKs, or UI libraries**  
 - 📂 Explore all my projects here: **[GitHub Profile →](https://github.com/GmdDev074?tab=repositories)**  
 - 💬 Ask me about: **Java, Kotlin, APIs, Databases, Architecture, Postman**  
