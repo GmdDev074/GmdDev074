@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently working: **Dagger, Jetpack, Footbal league app, review app for the league, Flutter, Dart**  
+- 🌱 Currently working on: **Dagger, Jetpack, Footbal league app, review app for the league, Flutter, Dart**  
 - 🛠 Skilled in: **Java & Kotlin frameworks, Jetpack Compose, API Integration, NDK, AdMob, Databases**  
 - 🤝 Looking to collaborate on **Android apps, SDKs, or UI libraries**  
 - 📂 Explore all my projects here: **[GitHub Profile →](https://github.com/GmdDev074?tab=repositories)**  
