@@ -102,19 +102,7 @@ Loading...
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Highlighted Projects
-
-### 📱 **Video Streaming App**
-Netflix-style Android app with **ExoPlayer**, categories & episodes  
-🔗 https://github.com/gmddev074/video-streaming-app
-
-### 🔐 **Bail Bonds App – Mob Town**
-- Urgent Bail Request Form  
-- Check-In Module  
-- Website Integration  
-🔗 https://github.com/gmddev074/mob-town
-
-### 🏆 **Awesome UI Libraries**
+## 🏆 **Awesome UI Libraries**
 Reusable and modern UI components  
 🔗 https://github.com/gmddev074/awesome_ui_libraries
 
