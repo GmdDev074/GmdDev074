@@ -15,12 +15,36 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning: **Dagger, Jetpack, KMP, Flutter, Dart**  
+- 🌱 Currently working: **Dagger, Jetpack, Footbal league app, review app for the league, Flutter, Dart**  
 - 🛠 Skilled in: **Java & Kotlin frameworks, Jetpack Compose, API Integration, NDK, AdMob, Databases**  
 - 🤝 Looking to collaborate on **Android apps, SDKs, or UI libraries**  
 - 📂 Explore all my projects here: **[GitHub Profile →](https://github.com/GmdDev074?tab=repositories)**  
 - 💬 Ask me about: **Java, Kotlin, APIs, Databases, Architecture, Postman**  
 - 📧 Reach me at: **salmanhy123456@gmail.com**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 👨‍💻 Professional Summary
+
+Android Engineer with hands-on experience building scalable, high-performance mobile applications using Kotlin, Jetpack Compose, and modern Android architecture. Strong focus on clean architecture, modularization, and performance optimization. Experienced in developing production-grade apps, SDKs, and reusable UI libraries.
+
+## 🤝 Availability
+
+- 🌍 Open to remote, onsite, and hybrid opportunities  
+- ⏳ Available for part-time and full-time roles  
+- 💼 Open to freelance projects  
+- 🤝 Interested in open-source collaborations
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🧠 Engineering Practices
+
+- 🏗️ Clean Architecture (MVVM / MVI)
+- 🔄 Modularization (multi-module projects)
+- ⚡ Performance optimization (memory, UI rendering)
+- 🧪 Unit Testing (JUnit, Mockito)
+- 🔐 Secure API handling & data storage
+- 📦 CI/CD basics (GitHub Actions)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -115,27 +139,6 @@ Reusable and modern UI components
 
 - 🎨 **Android UI Kit**  
   https://github.com/gmddev074/android-ui-kit
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏗️ Currently Working On
-
-### 📱 **Mob Town – Bail Assistance App**
-- 🚨 Urgent Contact  
-- 📄 Check-in Forms  
-- 🌐 Website Integration  
-- ⚡ Super fast and reliable
-
-### 🎥 **Shorts Streaming App**
-Lightweight & fast video platform  
-- Likes  
-- Favorites  
-- Reward ads to unlock episodes  
-
-### 🏥 **Health Record Submission App**
-- Secure record submission  
-- Health progress timeline  
-- Organization-side tracking  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
