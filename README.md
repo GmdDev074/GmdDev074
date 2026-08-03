@@ -48,14 +48,6 @@ Android Engineer with hands-on experience building scalable, high-performance mo
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🔥 Currently Working On
-
-<!--latest-start-->
-Loading...
-<!--latest-end-->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 # 📊 GitHub Stats:
 
 <div align="center">
@@ -126,12 +118,6 @@ Loading...
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 **Awesome UI Libraries**
-Reusable and modern UI components  
-🔗 https://github.com/gmddev074/awesome_ui_libraries
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🧰 My Libraries
 
 - 📦 **Custom RecyclerView Adapters**  
@@ -139,29 +125,6 @@ Reusable and modern UI components
 
 - 🎨 **Android UI Kit**  
   https://github.com/gmddev074/android-ui-kit
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏅 Certifications
-- ✔ Google Associate Android Developer  
-- ✔ JetBrains Kotlin for Android  
-- ✔ Firebase Advanced Features  
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💡 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤣 Dev Joke of the Day
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical"/>
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
