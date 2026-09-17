@@ -96,11 +96,11 @@ Hands-on experience building scalable Android applications with a strong focus o
 </p>
 
 <p align="center">
-  <img width="100%" src="https://fabianocouto-activity-graph.vercel.app/graph?username=gmddev074&theme=github-dark&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=gmddev074&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://edge-readme-stats.dancodes.online/heatmap?username=gmddev074" alt="Contribution Heatmap" />
+  <img width="100%" src="https://fabianocouto-activity-graph.vercel.app/graph?username=gmddev074&theme=github-dark&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
