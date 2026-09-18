@@ -74,7 +74,7 @@ Hands-on experience building scalable Android applications with a strong focus o
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart,firebase,sqlite,git,github,figma,postman&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart,react,ts,supabase,firebase,sqlite,git,github,figma,postman&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
