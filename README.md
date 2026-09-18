@@ -79,15 +79,6 @@ Hands-on experience building scalable Android applications with a strong focus o
 
 ---
 
-## 🧰 Libraries
-
-| Library | Description | Link |
-|:--------|:------------|:-----|
-| 📦 **RV Adapter Lib** | Custom RecyclerView adapters | [View repo](https://github.com/gmddev074/rv-adapter-lib) |
-| 🎨 **Android UI Kit** | Reusable Android UI components | [View repo](https://github.com/gmddev074/android-ui-kit) |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
