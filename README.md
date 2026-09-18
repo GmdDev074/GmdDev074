@@ -79,6 +79,23 @@ Hands-on experience building scalable Android applications with a strong focus o
 
 ---
 
+## 🧰 Libraries & Open Source
+
+### 📦 Libraries
+
+| Library | Description | Version | Link |
+|:--------|:------------|:--------|:-----|
+| **Android Debug Web View** | Debug logs & database viewer in a browser dashboard | `1.0.0` | [Explore](https://github.com/GmdDev074/Database-DEBUG-Loger-Web-View) |
+| **CustomToggle** | Modern customizable ON/OFF toggle with typed presets | `v1.0.0` | [Explore](https://github.com/GmdDev074/CustomToggleDemo) |
+| **CustomCalendar** | Horizontal scrolling calendar with selectable dates & dynamic data | `v1.0.0` | [Explore](https://github.com/GmdDev074/CustomCalendar) |
+
+### 🚀 Open Source Projects
+
+| Project | Description | Status | Link |
+|:--------|:------------|:-------|:-----|
+| **SwipePager** | Swipeable quiz / question cards with ViewPager2, scaling & snap-back | Open Source | [Visit](https://github.com/GmdDev074/swipepager_card_stack) |
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
