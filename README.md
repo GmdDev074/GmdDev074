@@ -124,6 +124,4 @@ Hands-on experience building scalable Android applications with a strong focus o
 
 ---
 
-<p align="center">
-  <i>If you like my work, leave a ⭐ — always happy to collaborate 🚀</i>
-</p>
+
