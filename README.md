@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#F7D15A;">Muhammad Salman</span></h1>
-<h3 align="center">🚀 Android Developer | Kotlin • Java • Flutter</h3>
+<h1 align="center">Hi 👋, I'm <strong>Muhammad Salman</strong></h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android%20Developer-F7D15A?style=for-the-badge&logo=android&logoColor=000000" alt="Android Developer" />
+</p>
+
+<h3 align="center">🚀 Kotlin • Java • Flutter • Jetpack</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7D15A&size=22&center=true&vCenter=true&width=520&lines=Android+Developer;Kotlin+%7C+Java+%7C+Flutter+%7C+Jetpack;Building+production+apps" alt="Typing SVG" />
