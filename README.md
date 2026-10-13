@@ -31,6 +31,7 @@ I've shipped apps live on the Play Store, including sports platforms and lifesty
 <table>
   <tr>
     <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/r1N4UHWATRDhqI9TyM30RyLlu8ioT9LyBE2HOIWKDtKpjT-0mmvqi61B4mmTbYNh8buSlvJWxVwUGhjz-2vgPA=s256-rw" width="72" height="72" alt="Versus Sports Simulator" />
       <h3>Versus Sports Simulator</h3>
       <p>Sports simulation & analytics</p>
       <a href="https://play.google.com/store/search?q=versus%20sports%20simuator&c=apps&hl=en">
@@ -38,6 +39,7 @@ I've shipped apps live on the Play Store, including sports platforms and lifesty
       </a>
     </td>
     <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/DyJjz5Kozcd6HDj-FmbsOQEbHwWzc9mj6RJ1bUGWv8verMDnKZRCc0my90Fbk9PbgTyvM0UQCjLsxW9YaBMG3C4=s256-rw" width="72" height="72" alt="Fussball Europa" />
       <h3>Fussball Europa</h3>
       <p>Football news, transfers & club feeds</p>
       <a href="https://play.google.com/store/apps/details?id=barca99com.androidapp&hl=en">
@@ -45,6 +47,7 @@ I've shipped apps live on the Play Store, including sports platforms and lifesty
       </a>
     </td>
     <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/9W6dj3ZQy8XQG6-hwWXirQxhAStUIhU6rHs5pW7Iy3JPFMDLtPRb1l-D-y9LopO-whXOBQjEvj0lPg-tqNcRYg=s256-rw" width="72" height="72" alt="Courial" />
       <h3>Courial</h3>
       <p>Chauffeur, valet, delivery & concierge</p>
       <a href="https://play.google.com/store/apps/details?id=com.courial.user&hl=en">
@@ -54,6 +57,7 @@ I've shipped apps live on the Play Store, including sports platforms and lifesty
   </tr>
   <tr>
     <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/diJMWH1fyFxSmv3PBBK5rPf8jn1dXuBF7ElRxFGjl08Gu_rC9XONDbOoqI6Y43LaAlxHcscPs1ZY3PJFZyA96A=s256-rw" width="72" height="72" alt="Whisperr" />
       <h3>Whisperr</h3>
       <p>Live speech translation & realtime subtitles</p>
       <a href="https://play.google.com/store/search?q=whisperr&c=apps&hl=en">
@@ -61,6 +65,7 @@ I've shipped apps live on the Play Store, including sports platforms and lifesty
       </a>
     </td>
     <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/GKSWRBEH_6YTti08iw3Pxp8Um8QIY5IDfiYtPXeADQTYT-R7RanEFlovU-b7YZB5ARsrsP6_Wm-MQ-TFImA0=s256-rw" width="72" height="72" alt="My Locksmith" />
       <h3>My Locksmith</h3>
       <p>Locksmith services & key ordering</p>
       <a href="https://play.google.com/store/apps/details?id=com.danco.discount.lock.smith&hl=en">
@@ -68,6 +73,7 @@ I've shipped apps live on the Play Store, including sports platforms and lifesty
       </a>
     </td>
     <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/5zBWN30GWB0iaRo_qMbFmarQ-v1M-4izkF8sVStc8FQm0PufEH0U6JFFxK55CuRvyMjzgX_BK44tPsXKvNuKvA=s256-rw" width="72" height="72" alt="Proposal" />
       <h3>Proposal</h3>
       <p>Muslim matchmaking & marriage</p>
       <a href="https://play.google.com/store/apps/details?id=com.loyal.muz&hl=en">
@@ -77,6 +83,7 @@ I've shipped apps live on the Play Store, including sports platforms and lifesty
   </tr>
   <tr>
     <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/wA7KEGFofFXSqwLY3gv89eDCCGMV8S5u0ljyYqOxg_qQ3c_aS_44Zva34TpBVOI7vtFUvWa8wfN8MNQAP4POs6E=s256-rw" width="72" height="72" alt="CrowdWave" />
       <h3>CrowdWave</h3>
       <p>Courier delivery & logistics</p>
       <a href="https://play.google.com/store/apps/details?id=com.crowdwave.courier&hl=en">
