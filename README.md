@@ -26,16 +26,56 @@ I've shipped apps live on the Play Store, including sports platforms and lifesty
 
 ---
 
-## 📱 Apps Shipped
+## 📱 Published Apps
 
-| App | Type | Play Store |
-|:----|:-----|:-----------|
-| **Versus Sports Simulator** | Sports simulation & analytics | [Open on Play Store](https://play.google.com/store/search?q=versus%20sports%20simuator&c=apps&hl=en) |
-| **Fussball Europa** | Football news, transfers & club feeds | [Open on Play Store](https://play.google.com/store/apps/details?id=barca99com.androidapp&hl=en) |
-| **Courial** | Chauffeur, valet, delivery & concierge | [Open on Play Store](https://play.google.com/store/apps/details?id=com.courial.user&hl=en) |
-| **Whisperr** | Live speech translation & realtime subtitles | [Open on Play Store](https://play.google.com/store/search?q=whisperr&c=apps&hl=en) |
-| **My Locksmith** | Locksmith services & key ordering | [Open on Play Store](https://play.google.com/store/apps/details?id=com.danco.discount.lock.smith&hl=en) |
-| **Proposal** | Muslim matchmaking & marriage | [Open on Play Store](https://play.google.com/store/apps/details?id=com.loyal.muz&hl=en) |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Versus Sports Simulator</h3>
+      <p>Sports simulation & analytics</p>
+      <a href="https://play.google.com/store/search?q=versus%20sports%20simuator&c=apps&hl=en">
+        <img alt="Get it on Google Play" height="54" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>Fussball Europa</h3>
+      <p>Football news, transfers & club feeds</p>
+      <a href="https://play.google.com/store/apps/details?id=barca99com.androidapp&hl=en">
+        <img alt="Get it on Google Play" height="54" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>Courial</h3>
+      <p>Chauffeur, valet, delivery & concierge</p>
+      <a href="https://play.google.com/store/apps/details?id=com.courial.user&hl=en">
+        <img alt="Get it on Google Play" height="54" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Whisperr</h3>
+      <p>Live speech translation & realtime subtitles</p>
+      <a href="https://play.google.com/store/search?q=whisperr&c=apps&hl=en">
+        <img alt="Get it on Google Play" height="54" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>My Locksmith</h3>
+      <p>Locksmith services & key ordering</p>
+      <a href="https://play.google.com/store/apps/details?id=com.danco.discount.lock.smith&hl=en">
+        <img alt="Get it on Google Play" height="54" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>Proposal</h3>
+      <p>Muslim matchmaking & marriage</p>
+      <a href="https://play.google.com/store/apps/details?id=com.loyal.muz&hl=en">
+        <img alt="Get it on Google Play" height="54" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
