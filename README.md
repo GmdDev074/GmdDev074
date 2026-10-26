@@ -52,16 +52,6 @@ I've shipped apps live on the Play Store, including sports platforms and lifesty
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://play-lh.googleusercontent.com/9W6dj3ZQy8XQG6-hwWXirQxhAStUIhU6rHs5pW7Iy3JPFMDLtPRb1l-D-y9LopO-whXOBQjEvj0lPg-tqNcRYg=s256-rw" width="72" height="72" alt="Courial" />
-      <h3>Courial</h3>
-      <p>Chauffeur, valet, delivery & concierge</p>
-      <a href="https://play.google.com/store/apps/details?id=com.courial.user&hl=en">
-        <img alt="Get it on Google Play" height="54" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
       <img src="https://play-lh.googleusercontent.com/diJMWH1fyFxSmv3PBBK5rPf8jn1dXuBF7ElRxFGjl08Gu_rC9XONDbOoqI6Y43LaAlxHcscPs1ZY3PJFZyA96A=s256-rw" width="72" height="72" alt="Whisperr" />
       <h3>Whisperr</h3>
       <p>Live speech translation & realtime subtitles</p>
@@ -69,6 +59,8 @@ I've shipped apps live on the Play Store, including sports platforms and lifesty
         <img alt="Get it on Google Play" height="54" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <img src="https://play-lh.googleusercontent.com/GKSWRBEH_6YTti08iw3Pxp8Um8QIY5IDfiYtPXeADQTYT-R7RanEFlovU-b7YZB5ARsrsP6_Wm-MQ-TFImA0=s256-rw" width="72" height="72" alt="My Locksmith" />
       <h3>My Locksmith</h3>
@@ -78,16 +70,6 @@ I've shipped apps live on the Play Store, including sports platforms and lifesty
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://play-lh.googleusercontent.com/5zBWN30GWB0iaRo_qMbFmarQ-v1M-4izkF8sVStc8FQm0PufEH0U6JFFxK55CuRvyMjzgX_BK44tPsXKvNuKvA=s256-rw" width="72" height="72" alt="Proposal" />
-      <h3>Proposal</h3>
-      <p>Muslim matchmaking & marriage</p>
-      <a href="https://play.google.com/store/apps/details?id=com.loyal.muz&hl=en">
-        <img alt="Get it on Google Play" height="54" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
       <img src="https://play-lh.googleusercontent.com/wA7KEGFofFXSqwLY3gv89eDCCGMV8S5u0ljyYqOxg_qQ3c_aS_44Zva34TpBVOI7vtFUvWa8wfN8MNQAP4POs6E=s256-rw" width="72" height="72" alt="CrowdWave" />
       <h3>CrowdWave</h3>
       <p>Courier delivery & logistics</p>
@@ -95,7 +77,6 @@ I've shipped apps live on the Play Store, including sports platforms and lifesty
         <img alt="Get it on Google Play" height="54" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" />
       </a>
     </td>
-    <td width="33%"></td>
     <td width="33%"></td>
   </tr>
 </table>
