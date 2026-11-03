@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm <strong>Muhammad Salman</strong></h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android%20Developer-F7D15A?style=for-the-badge&logo=android&logoColor=000000" alt="Android Developer" />
