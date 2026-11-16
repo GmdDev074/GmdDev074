@@ -94,6 +94,10 @@ I've shipped apps live on the Play Store, including sports platforms and lifesty
       <a href="https://play.google.com/store/apps/details?id=com.crowdwave.courier&hl=en">
         <img alt="Get it on Google Play" height="54" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" />
       </a>
+      <br />
+      <a href="https://apps.apple.com/de/app/crowdwave%E3%85%A4/id6811417168">
+        <img alt="Download on the App Store" height="40" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" />
+      </a>
     </td>
     <td width="33%"></td>
     <td width="33%"></td>
