@@ -18,16 +18,23 @@
 
 ---
 
+
 ## 🚀 About Me
 
-Android Engineer focused on building **production-grade mobile apps** with Kotlin, Jetpack Compose, and clean architecture.
+Mobile App Engineer passionate about building **scalable, high-performance, and production-ready mobile applications** using Kotlin, Jetpack Compose, Flutter, and React Native.
 
-I've shipped apps live on the Play Store, including sports platforms and lifestyle/service products used by real users.
+I've shipped applications live on the Google Play Store, including sports platforms and lifestyle/service products used by real users.
 
-- 🛠 Skilled in: **Kotlin, Java, Jetpack Compose, Flutter, API Integration, Room, Firebase, AdMob**
-- 🤝 Open to collaborate on: **Android apps, SDKs, and UI libraries**
-- 💬 Ask me about: **MVVM/MVI, APIs, Databases, Modularization, Performance**
-- 📧 Contact: **[salmanhy123456@gmail.com](mailto:salmanhy123456@gmail.com)**
+- 🛠 **Languages & Frameworks:** Kotlin, Java, Dart, Flutter, React Native, Jetpack Compose
+- 🏗 **Architecture & Patterns:** MVVM, MVI, Clean Architecture, Modularization
+- 🔌 **Backend & Integration:** REST APIs, GraphQL, Firebase, Supabase
+- 💾 **Databases:** Room, SQLite, Firestore
+- 💳 **Payment Integrations:** Stripe, Whop
+- 📱 **Other Technologies:** AdMob, FCM, Crashlytics
+- 🧰 **Tools:** Git, GitHub, Android Studio, VS Code, Postman
+- 🤝 **Open to collaborate on:** Android apps, cross-platform applications, SDKs, and UI libraries
+- 💬 **Ask me about:** Mobile Architecture, API Integration, Databases, Payment Gateways, Performance Optimization
+- 📧 **Contact:** [salmanhy123456@gmail.com](mailto:salmanhy123456@gmail.com)
 
 ---
 
